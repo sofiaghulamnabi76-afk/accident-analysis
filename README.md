@@ -68,7 +68,9 @@ Build an interactive dashboard (using Streamlit / PowerBI)
 Suggest preventive policies for traffic management
 <br>
 Project structure
+<br>
 Accident-Analysis/
+<br>
 │
 ├── data/                # Dataset files
 ├── notebooks/           # Jupyter notebooks
