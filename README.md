@@ -1,12 +1,17 @@
 # accident-analysis
 This project analyze accident dataset to explore how factors like age,gender,speed,helmet and seatbelt usage affect survivle rates
+<br>
 🚦 Accident Analysis Project
+<br>
 📌 Introduction
 This project focuses on analyzing road accident data to identify major causes, trends, and patterns.
 The purpose is to understand which factors (e.g., weather, time, vehicle type, location) contribute most to accidents and how preventive measures can be designed.
+<br>
 
 📊 Dataset
+<br>
 Source: [ Kaggle]
+<br>
 🛠 Tools & Libraries
 The project is developed using Python and the following libraries:
 
@@ -17,6 +22,7 @@ numpy
 matplotlib
 
 seaborn
+<br>
 📈 Analysis Performed
 Exploratory Data Analysis (EDA)
 
@@ -42,6 +48,7 @@ Chi-Square Test (relationship between accident severity & weather)
 t-Test (difference in casualties between urban and rural areas)
 
 ANOVA (comparison of mean accidents across different road types)
+<br>
 
 🔑 Key Findings
 Most accidents occur during peak traffic hours (7–9 AM & 5–8 PM)
@@ -59,6 +66,7 @@ Apply Machine Learning models to predict accident severity
 Build an interactive dashboard (using Streamlit / PowerBI)
 
 Suggest preventive policies for traffic management
+<br>
 Project structure
 Accident-Analysis/
 │
@@ -66,6 +74,7 @@ Accident-Analysis/
 ├── notebooks/           # Jupyter notebooks
 ├── src/                 # Python scripts
 ├── README.md            # Project documentation
+<br>
 
 🚀 How to Run the Project
 
@@ -76,6 +85,7 @@ git clone https://github.com/yourusername/Accident-Analysis.git
 Run Jupyter Notebook:
 
 jupyter notebook
+<br>
 💡 Conclusion
 
 This analysis highlights how different factors contribute to accidents and provides data-driven insights that can be used for policy-making and road safety improvements.
