@@ -54,18 +54,18 @@ Project structure:
 <br>
 Accident-Analysis:
 <br>
-├── data/                # Dataset files
+├── data/                 Dataset files
 <br>
-├── notebooks/           # Jupyter notebooks
+├── notebooks/           Jupyter notebooks
 <br>
-├── src/                 # Python scripts
+├── src/                  Python scripts
 <br>
-├── README.md            # Project documentation
+├── README.md             Project documentation
 <br>
 🚀 How to Run the Project:
 1-Clone the repository:
 <br>
-git clone https://github.com/yourusername/Accident-Analysis.git
+git clone https://github.com/sofiaghulamnabi76-afk/accident-analysis.git
 <br>
 2-Run Jupyter Notebook:
 <br>
