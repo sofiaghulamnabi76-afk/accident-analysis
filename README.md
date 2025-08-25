@@ -26,28 +26,47 @@ The project is developed using Python and the following libraries:
 📈 Analysis Performed:
 <br>
 .Exploratory Data Analysis (EDA)
+<br>
 .Missing values handling
+<br>
 .Feature distribution
+<br>
 .Accident trends by year, month, day, time
+<br>
 .ocation-based accident mapping
+<br>
 .Visualizations
+<br>
 .Heatmaps
-.Bar plots & Pie charts
+<br>
 .Trend lines
-.Statistical Tests
+<br>
+.Statistical Tests:
+<br>
 .Chi-Square Test (relationship between accident severity & weather)
+<br>
 .t-Test (difference in casualties between urban and rural areas)
+<br>
 .ANOVA (comparison of mean accidents across different road types)
 <br>
 🔑 Key Findings:
+<br>
 .Most accidents occur during peak traffic hours (7–9 AM & 5–8 PM)
+<br>
 .Weather conditions like fog and rain significantly increase accident severity
+<br>
 .Urban areas show higher frequency but rural accidents tend to be more severe
+<br>
 .Urban areas show higher frequency but rural accidents tend to be more severe
+<br>
 .Overspeeding & poor visibility are major contributors
+<br>
 ✅ Future Scope:
+<br>
 .Apply Machine Learning models to predict accident severity
+<br>
 .Build an interactive dashboard (using Streamlit / PowerBI)
+<br>
 .Suggest preventive policies for traffic management
 <br>
 Project structure:
