@@ -10,19 +10,36 @@ This project focuses on analyzing road accident data to identify major causes, t
 <br>
 The purpose is to understand which factors (e.g., weather, time, vehicle type, location) contribute most to accidents and how preventive measures can be designed.
 <br>
-📊 Dataset:
+📂 Dataset:
 <br>
-Source: [ Kaggle]
+Source: Kaggle Accident Dataset
 <br>
-🛠 Tools & Libraries:
+File Used: accidents.csv
 <br>
-The project is developed using Python and the following libraries:
+Contains information such as:
 <br>
-.scipy
-.pandas
-.numpy
-.matplotlib
-.seaborn
+.Accident severity
+<br>
+.Location details
+<br>
+.Time & weather conditions
+<br>
+.Vehicle & road information
+<br>
+🚀 Usage:
+<br>
+1-Jupyter Notebooks (.ipynb) → For detailed step-by-step analysis and visualization.
+<br>
+2-Python Scripts (.py) → For running specific parts of the analysis independently.
+<br>
+🛠 Tech Stack:
+.Python
+<br>
+.Pandas, NumPy – Data handling
+<br>
+.Matplotlib, Seaborn – Data visualization
+<br>
+.Jupyter Notebook – Interactive analysis
 <br>
 📈 Analysis Performed:
 <br>
