@@ -18,6 +18,7 @@ Source: [ Kaggle]
 <br>
 The project is developed using Python and the following libraries:
 <br>
+.scipy
 .pandas
 .numpy
 .matplotlib
@@ -47,7 +48,21 @@ The project is developed using Python and the following libraries:
 <br>
 .t-Test (difference in casualties between urban and rural areas)
 <br>
-.ANOVA (comparison of mean accidents across different road types)
+ 📊 Statistical & Feature Analysis:
+ <br>
+ Spearman Rank Correlation:
+ <br>
+A non-parametric test that measures the strength and direction of a "monotonic relationship" between two variables (not limited to linear relationships)
+<br>
+In accident datasets, variables may not always follow a normal distribution or linear trend. Spearman helps capture such relationships.
+<br>
+How to interpret:
+<br>
++1 → Strong positive relation
+<br>
+-1 → Strong negative relation
+<br>
+ 0 → No relation
 <br>
 🔑 Key Findings:
 <br>
